@@ -1,5 +1,5 @@
 ## Hi! 👋 I'm Esi Butarbutar.
-**a student majoring in Informatics Engineering at Mikroskil University,
+**A student majoring in Informatics Engineering at Mikroskil University,
 and I'm interested in becoming a Software Engineer!**
 
 
